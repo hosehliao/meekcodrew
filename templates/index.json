@@ -5,7 +5,6 @@
       "blocks": {
         "16420439367f5b467a-2": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/max_mara_532f0bab-aa79-4c70-8056-9201a2f949c1.jpg",
             "link": "https:\/\/www.youtube.com"
@@ -41,7 +40,6 @@
         },
         "16420439367f5b467a-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/MDO-Content-Carousel-3_160x160_2x_092e4b55-8f40-4f73-94c5-767f11db2b23.png",
             "link": ""
@@ -49,7 +47,6 @@
         },
         "416dd62a-fbf7-4ae8-94bb-541849a9e5d9": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/MDO-Content-Carousel-2_160x160_2x_841cb204-863a-45bb-b515-136634f5d6ca.png",
             "link": "shopify:\/\/collections\/leather"
@@ -57,7 +54,6 @@
         },
         "16420439367f5b467a-0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/max_mara_532f0bab-aa79-4c70-8056-9201a2f949c1.jpg",
             "link": "https:\/\/www.meekco.asia"
@@ -72,7 +68,6 @@
         },
         "cabeb618-58bc-4781-9681-2667f36268aa": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/MDO-Content-Carousel-8_160x160_2x_d7f8685f-7233-44d6-bfd5-d4568dd3508e.png",
             "link": "shopify:\/\/pages\/contact"
